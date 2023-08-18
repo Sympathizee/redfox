@@ -1,0 +1,1 @@
+import{_ as a,o,c as s,w as t,V as _,p as c,a as d,b as n}from"./index-112961a8.js";const p={},r=e=>(c("data-v-5292bda1"),e=e(),d(),e),l=r(()=>n("h1",null,"Page Redfox",-1));function f(e,i){return o(),s(_,{class:"ml-10 pl-10"},{default:t(()=>[l]),_:1})}const x=a(p,[["render",f],["__scopeId","data-v-5292bda1"]]);export{x as default};
